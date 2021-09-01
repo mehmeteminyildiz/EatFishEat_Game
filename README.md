@@ -1,5 +1,4 @@
-![alt text](https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/SimpleFishGame_v2.png?raw=true)
-<img src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/SimpleFishGame_v2.png?raw=true" width="200" height="400" />
+<img src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/SimpleFishGame_v2.png?raw=true" width="500"/>
 
 # EAT FISH EAT
 ## Developer:
