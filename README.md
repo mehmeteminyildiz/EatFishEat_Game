@@ -19,3 +19,11 @@
    [Github Account]: <https://github.com/mehmeteminyildiz>
    [Linkedin Account]: <https://www.linkedin.com/in/yildizmehmetemin/>
    [Google Play Account]: <https://play.google.com/store/apps/dev?id=6782363722261399622>
+   
+
+## Game Footage
+<img src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss/ss1.jpg?raw=true" width="300"/>
+<img src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss/ss2.jpg?raw=true" width="300"/>
+<img src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss/ss4.jpg?raw=true" width="300"/>
+<img src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss5.jpg?raw=true" width="300"/>
+
