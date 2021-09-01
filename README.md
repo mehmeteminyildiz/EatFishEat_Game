@@ -23,7 +23,7 @@
 
 ## Game Footage
 <img align="left" src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss/ss1.jpg?raw=true" width="20%" style="float:left"/>
-<img  src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss/ss2.jpg?raw=true" width="20%"/>
-<img  src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss/ss4.jpg?raw=true" width="20%"/>
-<img  src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss5.jpg?raw=true" width="20%"/>
+<img align="left" src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss/ss2.jpg?raw=true" width="20%"/>
+<img align="left" src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss/ss4.jpg?raw=true" width="20%"/>
+<img align="left" src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/ss5.jpg?raw=true" width="20%"/>
 
