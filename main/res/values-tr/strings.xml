@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eat Fish Eat</string>
+    <string name="button_oyuna_basla">Oyuna Başla</string>
+    <string name="hazirsan_tikla">Dokun ve Başla</string>
+    <string name="button_oynamaya_devam_et">Oynamaya Devam Et</string>
+    <string name="button_oyunu_bitir">Bitir</string>
+    <string name="button_tekrar_oyna">Tekrar Oyna</string>
+    <string name="text_view_5">En Yüksek Skor: </string>
+    <string name="new_high_skor">YENİ REKOR!</string>
+</resources>
