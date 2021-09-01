@@ -1,3 +1,5 @@
+![alt text](https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/SimpleFishGame_v2.png?raw=true)
+
 # EAT FISH EAT
 ## Developer:
 ###### Name Surname : Mehmet Emin Yıldız
