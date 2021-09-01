@@ -1,4 +1,4 @@
-<img src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/SimpleFishGame_v2.png?raw=true" width="500"/>
+<img src="https://github.com/mehmeteminyildiz/EatFishEat_Game/blob/main/SimpleFishGame_v2.png?raw=true" width="300"/>
 
 # EAT FISH EAT
 ## Developer:
